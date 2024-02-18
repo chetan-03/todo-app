@@ -1,0 +1,8 @@
+node_modules
+.next
+├── BUILDID
+└── static
+├── css
+│   └── app.1234567890abcdefg.
+└── styles.css -> /static/css/styles.d3c9e3
+.env.local
